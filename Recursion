@@ -1,0 +1,10 @@
+Today i started learning recursion from striver playlist 
+New : 
+backtracking
+
+When a function calls recursion first n then prints or 
+Does something is called backtracking . When the other
+Statements run when the base case is hit . 
+
+So u start print from 4th recursion call back to 1st ie the calling function. 
+
